@@ -1,4 +1,4 @@
-# [From Hype to Reality: Transformer-Based Models for Fake News Detection Performance and Robustness Revealed](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ceur-ws.org/Vol-3593/paper2.pdf)
+# [From Hype to Reality: Transformer-Based Models for Fake News Detection Performance and Robustness Revealed](https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=wUa3IWgAAAAJ&citation_for_view=wUa3IWgAAAAJ:nrtMV_XWKgEC)
 Dorsaf Sallami, Ahmed Gueddiche, Esma Aïmeur
 
 ## Abstract: 
