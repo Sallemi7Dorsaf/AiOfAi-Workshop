@@ -1,4 +1,5 @@
-# AiOfAi-Workshop 2023
+# [From Hype to Reality: Transformer-Based Models for Fake News Detection Performance and Robustness Revealed](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ceur-ws.org/Vol-3593/paper2.pdf)
+Dorsaf Sallami, Ahmed Gueddiche, Esma Aïmeur
 
-
-From Hype to Reality: Transformer-Based Models for Fake News Detection Performance and Robustness Revealed  
+## Abstract: 
+The prevalence of fake news in today's society is a serious concern, as it can compromise the reliability of information and have detrimental effects on individuals and communities. In this article, we conduct a comprehensive evaluation of six distinct Transformers to investigate their effectiveness in detecting Fake News. First, we examine the performance of these models on four diverse datasets, each representing a distinct language. Second, we investigate the robustness of these models against adversarial attacks to assess their vulnerability and measure the impact of such attacks on their performance.  Our findings indicate that while transformers are commonly employed, their performance exhibits significant variability across datasets and languages. Moreover, our analysis reveals their vulnerability to attacks,  as demonstrated by a notable drop in accuracy when confronted with deliberate manipulations. 
